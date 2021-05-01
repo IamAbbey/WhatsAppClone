@@ -1,6 +1,8 @@
 # WhatsappClone
 
-A new Flutter project.
+|       |  |
+| ----------- | ----------- |
+| ![Screenshot_1619687510](https://user-images.githubusercontent.com/61361540/116769852-2d029800-aa37-11eb-9681-790631bbe881.png) | ![Screenshot_1619687612](https://user-images.githubusercontent.com/61361540/116769855-30961f00-aa37-11eb-82a8-32b048df3046.png) |
 
 ## Getting Started
 
